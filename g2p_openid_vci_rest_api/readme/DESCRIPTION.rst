@@ -1,1 +1,0 @@
-OpenG2P OpenID VCI REST API
