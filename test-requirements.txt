@@ -3,5 +3,5 @@ httpx
 git+https://github.com/OpenG2P/rest-framework@17.0#subdirectory=fastapi
 git+https://github.com/OpenG2P/rest-framework@17.0#subdirectory=extendable
 git+https://github.com/OpenG2P/rest-framework@17.0#subdirectory=extendable_fastapi
-git+https://github.com/OpenG2P/openg2p-registry@17.0-develop#subdirectory=g2p_registry_base
-git+https://github.com/OpenG2P/openg2p-security@17.0-develop#subdirectory=g2p_encryption
+git+https://github.com/OpenG2P/openg2p-registry@17.0-1.2#subdirectory=g2p_registry_base
+git+https://github.com/OpenG2P/openg2p-security@17.0-1.2#subdirectory=g2p_encryption
